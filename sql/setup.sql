@@ -1,1 +1,0 @@
-CREATE DATABASE car_catalog_db;
